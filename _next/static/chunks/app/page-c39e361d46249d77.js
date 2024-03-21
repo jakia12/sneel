@@ -432,7 +432,7 @@
                                       }),
                                       (0, i.jsx)("div", {
                                         className: "tokenomics_title",
-                                        children: "TBA",
+                                        children: "100,000,000",
                                       }),
                                     ],
                                   }),
