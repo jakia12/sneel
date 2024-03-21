@@ -377,7 +377,7 @@
                               children: (0, i.jsx)("p", {
                                 className: "para",
                                 children:
-                                  "Once upon a time, nestled in the lush canopies of the Amazon rainforest, lived Sneel the sloth, famed for his lethargic yet endearing ways. One fateful night, as he gazed upon the shimmering moon, an idea sparked within him. Determined to reach the celestial body, Sneel embarked on his slow and steady journey, inching his way through the dense foliage. With unwavering determination, he traversed rivers and climbed towering trees, each movement deliberate and calculated. As the days turned into weeks, Sneel's perseverance paid off, as he finally reached the moon, basking in its ethereal glow, becoming the first sloth to achieve such a feat. And from that moment on, Sneel's legendary ascent inspired creatures across blockchains to reach for the stars, proving that even the slowest among us can achieve greatness with patience and determination.",
+                                  "In the bustling animal kingdom, a risk-taking snail named Sneel, with a gambling habit, discovers a cryptocurrency opportunity called Sneel Coin. With his loyal friend Sloth, they invest all their resources into it, hoping for riches. As the coin's value rises, they realize the true worth lies in their friendship and community. They pledge to use their wealth for the forest's welfare, becoming inspirations for others, showcasing the importance of friendship, resilience, and using blessings for good.",
                               }),
                             }),
                           ],
