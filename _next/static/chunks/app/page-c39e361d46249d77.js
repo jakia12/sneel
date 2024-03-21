@@ -258,12 +258,12 @@
                       className: "menu_right",
                       children: [
                         (0, i.jsx)("a", {
-                          href: "tglink",
+                          href: "https://t.me/sneelsol",
                           target: "_blank",
                           className: "socials tg w-button",
                         }),
                         (0, i.jsx)("a", {
-                          href: "ttlink",
+                          href: "https://twitter.com/sneelsol",
                           target: "_blank",
                           className: "socials twitter w-button",
                         }),
@@ -336,7 +336,7 @@
                               content: "Click to Copy",
                             }),
                             (0, i.jsx)("a", {
-                              href: "tglink",
+                              href: "https://t.me/sneelsol",
                               className: "btn_link",
                               children: "TELEGRAM",
                             }),
