@@ -341,7 +341,7 @@
                               children: "TELEGRAM",
                             }),
                             (0, i.jsx)("a", {
-                              href: "twitterlink",
+                              href: "https://twitter.com/sneelsol",
                               className: "btn_link2",
                               children: "TWITTER",
                             }),
