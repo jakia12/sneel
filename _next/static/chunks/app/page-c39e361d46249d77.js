@@ -267,6 +267,11 @@
                           target: "_blank",
                           className: "socials twitter w-button",
                         }),
+                        (0, i.jsx)("a", {
+                          href: "https://raydium.io/swap/?inputCurrency=sol&outputCurrency=4cA3bGXtX5nBcmvQ1qN6idAgs2a5PEGb33BPP7V1eyos&fixed=in",
+                          target: "_blank",
+                          className: "socials chart w-button",
+                        }),
                       ],
                     }),
                   ],
