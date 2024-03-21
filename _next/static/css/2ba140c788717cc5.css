@@ -709,6 +709,13 @@ body {
   background-repeat: no-repeat;
   background-size: auto;
 }
+.socials.chart {
+  width: 90px;
+  background-image: url(/images/chart.png);
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
 .socials.twitter:hover {
   border-width: 3.5px 2px 2px 3.5px;
 }
