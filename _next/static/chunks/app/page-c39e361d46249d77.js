@@ -318,7 +318,7 @@
                               id: "tt",
                               onClick: function () {
                                 navigator.clipboard.writeText(
-                                  "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+                                  "4cA3bGXtX5nBcmvQ1qN6idAgs2a5PEGb33BPP7V1eyos"
                                 );
                               },
                               children: (0, i.jsxs)("div", {
@@ -326,7 +326,7 @@
                                 children: [
                                   "CONTRACT ADDRESS:",
                                   (0, i.jsx)("br", {}),
-                                  "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                                  "4cA3bGXtX5nBcmvQ1qN6idAgs2a5PEGb33BPP7V1eyos",
                                 ],
                               }),
                             }),
