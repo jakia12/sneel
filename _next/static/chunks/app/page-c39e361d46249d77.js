@@ -318,6 +318,15 @@
                               children: "PRE SALE SOLD OUT!",
                             }),
                             (0, i.jsx)("div", {
+                              className: "pre-sale",
+                              children:  (0, i.jsx)("a", {
+                                href: "mailto:team@sneel.wtf",
+                                className: "para",
+                                children:
+                                  "team@sneel.wtf",
+                              }),
+                            }),
+                            (0, i.jsx)("div", {
                               className: "block_ca",
                               "data-tooltip-id": "tt",
                               id: "tt",
