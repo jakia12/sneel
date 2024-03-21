@@ -225,7 +225,7 @@
                       className: "menu_left",
                       children: [
                         (0, i.jsx)("a", {
-                          href: "/contributors.html",
+                          href: "https://docs.google.com/spreadsheets/d/1CBbpEAO1c32EsyaoK04hnAnDbu6EJ0h0fJ7nZ1YRZek/edit?usp=sharing",
                           children: (0, i.jsx)("div", {
                             className: "raids-button",
                             children: "CONTRIBUTORS ",
@@ -248,7 +248,7 @@
                         }),
 
                         (0, i.jsx)("a", {
-                          href: "/contributors.html",
+                          href: "https://docs.google.com/spreadsheets/d/1CBbpEAO1c32EsyaoK04hnAnDbu6EJ0h0fJ7nZ1YRZek/edit?usp=sharing",
                           className: "menu_button w-button",
                           children: "CONTRIBUTORS",
                         }),
