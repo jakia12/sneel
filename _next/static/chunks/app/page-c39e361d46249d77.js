@@ -355,9 +355,9 @@
                               children: "TELEGRAM",
                             }),
                             (0, i.jsx)("a", {
-                              href: "https://twitter.com/sneelsol",
+                              href: "https://www.coingecko.com/en/coins/sneel",
                               className: "btn_link2",
-                              children: "TWITTER",
+                              children: "COINGECKO",
                             }),
                           ],
                         }),
