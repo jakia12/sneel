@@ -306,10 +306,10 @@
                             (0, i.jsxs)("div", {
                               className: "main-text",
                               children: [
-                                (0, i.jsx)("img", {
-                                  src: "/images/coin.png",
-                                  className: "coin",
-                                }),
+                                // (0, i.jsx)("img", {
+                                //   src: "/images/coin.png",
+                                //   className: "coin",
+                                // }),
                                 "SNEEL",
                               ],
                             }),
